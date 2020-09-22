@@ -38,7 +38,7 @@
         v-model="form.password1"
         id="password1"
         aria-describedby="password-help-block"
-        placeholder="Enter email"
+        placeholder="Enter password"
       ></b-input>
       <b-form-text id="password-help-block">
         Your password must have between 8 to 15 characters which contain at
